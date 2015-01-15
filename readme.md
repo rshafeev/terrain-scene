@@ -1,7 +1,7 @@
 ###Description###
 
 ### Control keys ###
-* keyboard arrows - moving in terrain (if you do not change height).
+* keyboard arrows - moving around terrain (if you do not change height).
 * Home/End - increase/decrease height.
 * F1 - exit full screen mode
 * F2 - return to full-screen mode 
