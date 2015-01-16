@@ -1,4 +1,8 @@
 ###Description###
+3D scene was generated using opengl libraries and shaders. In the scene there are a terrain, a pyramid and lake.
+
+#See demonstration video:#
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/WhfDzRWtGg4/0.jpg)](https://www.youtube.com/watch?v=WhfDzRWtGg4)
 
 ### Control keys ###
 * keyboard arrows - moving around terrain (if you do not change height).
